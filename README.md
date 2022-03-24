@@ -1,7 +1,7 @@
 # JobApi
 Foi desenvolvida uma API REST completa de gerenciamento de vagas de emprego e aplicação de vagas.
 
-#Tecnologias e práticas utilizadas
+# Tecnologias e práticas utilizadas
 * ASP.NET Core com .NET 6
 * Entity Framework Core
 * SQL Server
